@@ -1,0 +1,2 @@
+# smartnotes
+# Django CRUD application
